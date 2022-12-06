@@ -19,22 +19,16 @@
       "isInCart": false
     },
     {
-      "id": 4,
-      "name": "String Cheese",
-      "category": "Dairy",
-      "isInCart": false
+      "name": "Egg",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "Swiss Cheese",
+      "name": "Pizza",
       "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 5
     }
   ]
 }
